@@ -12,3 +12,5 @@ soil moisture
 nounits
 0
 
+relay
+7
